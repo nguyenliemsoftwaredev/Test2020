@@ -7,7 +7,7 @@
 </head>
 <body>
 	<div class="header">
-		<h2>Đăng Ký</h2>
+		<h3>Đăng Ký</h3>
 	</div>
   <form method="post" action="dangky.php">
   	<!-- display validation errors here -->
